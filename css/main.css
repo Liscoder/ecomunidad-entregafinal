@@ -1,0 +1,233 @@
+.logo{
+	height: 100px;
+	width: 100px;
+	float:left;
+}
+.more{
+	float: right;
+	padding-top:25px;	
+}
+.blog{
+	font-width: bold;
+	font-size: 20px;
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+.anterior{
+ 	position: absolute;
+ 	top:35%;
+	left:-40px;
+}
+.posterior{
+	float:right;
+	position:absolute;
+	right:0;
+	top:35%;
+}
+
+.more a{
+	text-decoration: none;
+	color:#9A9A9A;
+	font-size: 20px;
+	font-family: Sans-bold;
+}
+.esp{
+	padding: 10px;
+}
+.position{
+	background:url('../img/semilla.jpg') no-repeat;
+	height: 600px;
+	width: 100%;
+	background-size: cover;
+	background-position: 50%;
+	position:dashed;
+	}
+.datos{
+	height: 130px;
+	width:100%;
+	background-color: white;
+	position:dashed;
+	padding-top: 20px;
+
+}
+.lorem{
+	background-color: #F2F2F2;
+	height: 90px;
+}
+.flor{
+	height:300px;
+	position:relative;
+	margin-bottom: 90px;
+}
+.clear{
+	background-color: #F2F2F2;
+	height: 180px;
+    clear:both;
+    color:black;
+    width: 100%;
+}
+.analisis{
+	text-align: center;
+	padding:5%;
+}
+.valores{
+	padding-top: 100px;
+	margin-top: 40px;
+}
+.icono{
+	margin:10px 0 10px 0;
+}
+.icono img{
+	margin:0 auto;
+}
+.valor{
+	margin:8px 0 8px 0;
+	font-family: OpenSans-Bold;
+	font-size: 18px;
+}
+.mision{
+	margin-top: 20px;
+ 	height: 50px;
+	font-size: 14px;
+	font-family: OpenSans-Light;
+}
+.lugar{
+	background:url('../img/fondo.jpg') no-repeat;
+	height:350px;
+	background-size: 100%;
+	float:left;
+}
+.charla{
+	height: 350px;
+	background: url('../img/metodo.jpg') no-repeat;
+	background-size: 100%;
+}
+.inline{
+	display: inline-block;
+}
+.edit{
+	margin-top: 30px;
+}
+.inside{
+	margin:auto;
+	height: 30px;
+	width:30px;
+	margin-top: 50px;
+}
+.words{
+	font-size:21px;
+	color:white;
+	margin: 10px 0 10px 0;
+    font-family: OpenSans-Light;
+    font-size: 22px;
+}
+.imagine{
+	background-color: white;
+	height: 150px;
+}
+.include{
+	font-size: 18px;
+	line-height: 125%; 
+	color:white;
+}
+.servicios{
+	margin-top: 40px;
+	font-family: OpenSans-Regular;
+}
+.information{
+	margin-top:20px;
+	font-size:OpenSans-Light;
+}
+.second{
+	margin-top:60px;
+	margin-bottom: 50px;
+}
+.title{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-size:OpenSans-Light;
+}
+.description{
+	background-color:#5E8039;
+	color:white;
+	margin-bottom: 40px;
+	padding-bottom: 60px;
+}
+.project{
+	color:white;
+	padding-top: 40px;
+	margin-left: 35px;
+	font-size: 22px;
+}
+.separador{
+	margin-top:10px;
+}
+
+.portafolio{
+	margin-top: 30px;
+}
+.equipos{
+	border-radius:50%;
+	height: 200px;
+}
+.red{
+	margin:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.fotografias{
+	height: 450px;
+	background: url('../img/fondo2.jpg') no-repeat;
+	background-size: 100%;
+	position:relative;
+	margin: auto;
+}
+.contactos{
+	background-color: #4D4D4D;
+	height: 300px;
+}
+.social{
+	padding-top: 50px;
+	border:1px solid white;
+	height: 230px;
+	width: 25%;
+	font-family:OpenSans-Light;
+	font-size: 20px;
+	color:white;
+}
+.medios{
+	padding-top:50px;
+	margin-left: 4px;
+}
+.represent{
+	margin-left: 180px;
+	margin-top:65px;
+}
+.comunication{
+	padding-top: 30px;
+}
+.final{
+	font-family: OpenSans-Bold;
+}
+.post{
+	font-family: OpenSans-Bold;
+	font-size: 16px;
+	margin-left: 10px;
+}
+.time{
+	font-family: OpenSans-Regular;
+	font-size:14px;
+	margin-left: 10px;
+}
+.texto{
+	font-family: OpenSans-Light;
+	font-size: 14px;
+	margin-left: 10px;
+}
+.num{
+	font-family: OpenSans-Light;
+}
+.imagen{
+	margin: auto;
+
+}
